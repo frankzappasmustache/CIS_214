@@ -1,0 +1,727 @@
+Review all of the material described here for this assignment. If at any point you have a question on what you are doing STOP and ask your instructor.
+Review the Scenario in the document and create your paper to reflect the scenario. 
+FootPrinting Report.docx
+
+Example list of tools - Note: This should use passive tools only. If you have questions you should  verify any tool not on the list prior to use.
+
+List of Tools and questions to consider:
+
+The target website: https://www.opentable.com
+
+Items that can be gathered normally -
+
+Company address:
+1 Montgomery Street
+Suite 700
+San Francisco, CA 94104
+
+office locations:
+Denver
+1700 Lincoln Street
+Suite 2900
+Denver, CO 80203
+
+Los Angeles
+6255 W. Sunset Blvd.
+Suite 1000
+Hollywood, CA 90028
+
+New York City
+920 Broadway
+9th floor
+New York, NY 10010
+
+Washington, DC
+1201 15th St NW
+Washington, DC 20005
+
+United Kingdom
+OpenTable International
+opentable.co.uk
+Alphabeta Building
+14-18 Finsbury Square
+London EC2A 1AH
+
+India
+OpenTable India
+Delphi Building, B-503 Orchard Avenue
+Hiranandani Gardens, Panchkutir Ganesh nagar
+Powai, Mumbai - 400076
+
+Australia
+OpenTable Australia
+opentable.com.au
+Level 22, 357 Collins Street
+Melbourne, Victoria 3000
+
+Mexico
+OpenTable Mexico
+opentable.com.mx
+Torre Índigo
+Paseo de la Reforma No. 373 Piso 6-A
+Col. Cuauhtémoc, De. Cuauhtémoc
+C.P. 06500 México D.F
+
+Contact employee names:
+
+Executive Contacts
+
+Primary Contact
+Matthew Caron
+Head of Customer Support
+1 Montgomery St
+Suite 700
+San Francisco, CA 94104
+mcaron@opentable.com
+
+Secondary Contact
+George Pokorny
+Vice President of Global Customer Success,
+1 Montgomery St
+Suite 700
+San Francisco, CA 94104
+gpokorny@opentable.com
+
+Andrea Johnston
+Chief Operating Officer
+1 Montgomery St
+Suite 700
+San Francisco, CA 94104
+ajohnston@opentable.com
+
+Chief Executive
+Steve Hafner
+CEO Kayak
+1 Montgomery St
+Suite 700
+San Francisco, CA 94104
+shafner@kayak.com
+
+Bryant Chae
+Manager, Data Center Operations
+799 Market St Fl 4, San Francisco, CA 94103, California
+bchae@opentable.com
+408-499-5524
+
+Joseph Essas
+CTO
+1 Montgomery St
+Suite 700
+San Francisco, CA 94104
+jessas@opentable.com
+
+
+Open job vacancies - do they include technology used?
+
+======================================
+Back End Java Engineer - San Francisco
+======================================
+Our applications are written in modern Java, using PostgreSQL as our main database service, to provide stable, scalable and maintainable services to our customers. We use Kafka as our streaming messaging platform, a Spring-based framework for rapid service development, and we run our production environment on Kubernetes.
+--------------------------------------
+
+========================================
+Business Technology Analyst - Denver, CO
+========================================
+Develop domain expertise with our telephony system (Talkdesk).
+Intermediate level experience working in Salesforce Service Cloud environment is a plus
+--------------------------------------
+
+==============================
+DevOps Manager - San Francisco
+==============================
+Building and maintaining the container platform (Kubernetes)
+
+Config management infrastructure administration (Puppet, Ansible) 
+
+CDN & Message Bus (Akamai, Kafka)
+
+Cloud service operation (AWS)
+
+Strong expertise with Kubernetes and docker in a hybrid environment
+Proven hands on Linux experience (Ubuntu, CentOS, Etc.)
+Demonstrated experience with scripting languages such as GoLang, Python, Ruby, Perl, or Bash
+Solid understanding of cloud computing - AWS, GCE, Azure
+Familiarity with CI/CD Pipelines using tools such as Github, Artifactory, Jenkins, TeamCity, Docker registry, etc.
+Experience working with K/V stores such as zookeeper, redis, or consul in production
+In depth experience with virtualization technologies such as VMware, ESX, xen, openstack
+Experience working with monitoring and alerting systems such as Sensu, Graphite, Logstash, and Nagios
+Experience with Windows Server OSs
+--------------------------------------
+
+============================
+Engineering Manager - Mumbai
+============================
+Expertise in Java and rest APIs
+Experience with Microservices
+Experience with relational and NoSQL databases
+Experience with Docker/Kubernetes and CI/CD a plus
+Experience with Event Driven Architecture a plus
+Expertise in JavaScript and JavaScript frameworks like React, a plus
+--------------------------------------
+
+==============================================================
+Principal Site Reliability Engineer (SRE) - Los Angeles/Remote
+==============================================================
+Building and maintaining the container platform (Kubernetes)
+
+Config management infrastructure administration (Puppet, Ansible) 
+
+CDN & Message Bus (Akamai, Kafka)
+
+Cloud service operation (AWS)
+
+Minimum 8+ years of strong hands on Linux experience (Ubuntu, CentOS, Etc.)
+
+Demonstrated experience with scripting languages such as GoLang, Python, Ruby, Perl, or Bash
+
+Demonstrated expertise with Kubernetes and docker in a hybrid environment
+
+Solid understanding of cloud computing - AWS, GCE, Azure
+
+4+ years experience with config management tools such as Puppet, Chef, or SaltStack
+
+Strong understanding of operating messaging systems such as kafka or rabbitmq in production
+
+Familiarity with CI/CD Pipelines using tools such as Github, Artifactory, CircleCi, Jenkins, TeamCity, Docker registry, etc.
+
+Experience working with K/V stores such as zookeeper, redis, or consul in production
+
+In depth experience with virtualization technologies such as VMware, ESX, xen, openstack 
+
+Experience working with monitoring and alerting systems such as Sensu, Graphite, Logstash, and Nagios
+--------------------------------------
+
+=====================================================================================================
+Principal Software Engineer .NET/C# - United States(Remote) - Los Angeles/San Francisco/Denver/London
+=====================================================================================================
+Knowledge of .NET Core, .NET Framework, and IOC methods (5+ years)
+Building performant distributed RESTful applications and deploying with Docker or similar
+Experience in SQL databases (4+ years)
+Message processing using Kafka or other messaging platforms
+--------------------------------------
+
+====================================
+Senior .Net Engineer - San Francisco
+====================================
+Expert in .NET development 
+Strong working knowledge in multithreading and concurrent programming
+Minimum 5 years of working experience in building a scalable architecture that can process millions of records in a few minutes.
+5 + years of solid experience in SQL databases like PostgreSQL or MS SQL
+Minimum 5 years of experience in building and maintaining RESTful services
+Strong knowledge of caching techniques
+Working experience in message busses such as Kafka
+Performance monitoring and analysis
+ACID and CAP trade-offs
+Requirements
+Good communication skills
+OOP/OOA background
+C# expertise
+.NET Framework knowledge, especially .NET Core
+Skilled with relational databases and SQL
+Clean code, covered by unit and integration tests
+What else would make me stand out?
+Knowledge of OOP principles
+Knowledge or interest in learning about Microservices architecture
+Knowledge of Event Sourcing and CQRS
+Knowledge of scalability and performance challenges of server-side code. You can design and develop horizontally scalable, resilient, and high-performance REST services
+Knowledge of SaaS, PaaS, and IaaS models
+Knowledge of cloud technologies and hands-on experience in at least one cloud platform
+Knowledge of PostgreSQL, Redis, Microsoft SQL Server
+Comfortable with Continuous Integration/Continuous Delivery Environments
+Experience with installation and deployment of servers and open-source platforms
+Knowledge of Agile methodologies
+--------------------------------------
+
+=====================================
+Senior Data QA Engineer - Los Angeles
+=====================================
+Demonstrable knowledge, experience, skill and proficiency with the following:
+Scrum/Agile methodologies
+SDLC
+Unix / Linux environments
+Python
+SQL
+Knowledge of the following technologies is a plus:
+Apache Airflow
+Great Expectations
+Snowflake
+Kafka
+Databricks
+Apache Superset
+--------------------------------------
+
+=============================================
+Senior Frontend Engineer - Los Angeles/Remote
+=============================================
+Docker
+
+Container-based deployment using Mesos/Kubernetes
+
+Curiosity about application monitoring and familiarity with ELK/StatsD
+
+Expert knowledge in JavaScript (4+ years)
+
+Good understanding of async design patterns
+
+Strong understanding of modern JavaScript (ES6+)
+
+Strong understanding of React/Redux Framework
+
+Deep knowledge in Node.js and a server framework like Express
+
+Experience working within a distributed SOA architecture
+
+You love tuning performance and making things faster
+
+Unit test/TDD experience
+
+Experience building an automation‐focused culture, both in testing and build/deploy
+
+You are customer-focused, react well to changes, work with teams, and able to multi-task on multiple products and projects
+--------------------------------------
+
+=============================================
+Senior Software Engineer(Backend) - Melbourne
+=============================================
+Our primary services infrastructure utilises Docker-based deployment on Mesos (eventually Kubernetes) and enables any team to deploy new services with ease. Our services employ persistent messaging and service discovery to coordinate and communicate. We trust our engineers to make the right technical decisions and use a varied tech stack including Java, .NET (C#), Kafka, PostgreSQL, MongoDB, Docker, Kubernetes, React, Node.js, GraphQL.
+
+5+ years of experience as a Software Engineer with strong experience with Java, J2EE.
+In-depth knowledge of design patterns, data structures and OO design.
+Any database technology (e.g. RDBMS like MySQL or Postgres and/or NoSQL like MongoDB or Cassandra).
+Experience working with large scale distributed systems and event-driven architectures.
+Loves to code! Finds improvements, while remaining calm during incidents when debugging production issues across services and multiple levels of stack.
+Collaboration on cross-team projects with software engineers, designers, and product owners located in other offices including San Francisco, Los Angeles, London and Mumbai.
+Growth mindset with a self-motivated desire to mentor and be mentored.
+Enjoys discussion, remaining personable and approachable.
+Desired:
+Experience with microservices, Reactive Programming, test frameworks and Docker/Kubernetes/Singularity/Mesos. Understanding of Java/J2EE platform with Spring Framework and knowledge of system performance and operational readiness monitoring.
+--------------------------------------
+
+Email schema (xlasname, firstnamex):
+[first initial][last name]@opentable.com
+
+Phone numbers:
+Manager, Data Center Operations:
+408-499-5524
+
+Customer Service:
+(800) 673-6822
+
+Business Customer Service:
+(866) 951-7154
+
+Gift Card Inquiries:
+(888) 503-7558
+
+
+Partner Companies:
+OpenTable and KAYAK's portfolio of metasearch brands including momondo, Cheapflights, Swoodoo, checkfelix and Mundi.
+
+Open hours - hours closed:
+24/7
+
+Robots.txt file (sitename/robots.txt):
+https://support.opentable.com/robots.txt
+https://support.opentable.com/s/sitemap.xml (not robots.txt but also useful)
+https://support.opentable.com/s/sitemap-view-1.xml (not robots.txt but also useful)
+https://www.opentable.com/robots.txt
+https://support.opentable.com/s/sitemap-topicarticle-1.xml (not robots.txt but also useful)
+https://www.opentable.com/sitemap.xml (not robots.txt but also useful)
+https://gifts.opentable.com/admin/login
+
+Internet Archive (wayback machine) - archive.org (Links to an external site.):
+https://web.archive.org/web/*/opentable.com
+
+Whois:
+=============
+whois.com
+=============
+Domain Name: OPENTABLE.COM
+Registry Domain ID: 3095122_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2021-12-04T17:06:28Z
+Creation Date: 1999-01-17T05:00:00Z
+Registrar Registration Expiration Date: 2027-01-17T05:00:00Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: OpenTable, Inc.
+Registrant Organization: OpenTable, Inc.
+Registrant Street: 1 MONTGOMERY ST STE 700
+Registrant City: SAN FRANCISCO
+Registrant State/Province: CA
+Registrant Postal Code: 94104-4536
+Registrant Country: US
+Registrant Phone: +1.4084995524
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: email@opentable.com
+Registry Admin ID: 
+Admin Name: Chae, Bryant
+Admin Organization: OpenTable
+Admin Street: 1 Montgomery Street
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94104
+Admin Country: US
+Admin Phone: +1.4084995524
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: email@opentable.com
+Registry Tech ID: 
+Tech Name: Chae, Bryant
+Tech Organization: OpenTable
+Tech Street: 1 Montgomery Street
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94104
+Tech Country: US
+Tech Phone: +1.4084995524
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: email@opentable.com
+Name Server: A1-93.AKAM.NET
+Name Server: A12-67.AKAM.NET
+Name Server: A13-64.AKAM.NET
+Name Server: A28-65.AKAM.NET
+Name Server: A11-66.AKAM.NET
+DNSSEC: unsigned
+Registrar Abuse Contact Email: email@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-22T08:11:19Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+================
+all-nettools.com
+================
+
+-------------------------------------------------
+opentable.com, opentable.com.mx, opentable.com.au
+-------------------------------------------------
+66.150.0.0 - 66.151.255.255
+250 Williams Street
+Suite E100
+Atlanta, GA
+US
+
+-----------------------------
+opentable.co.uk, opentable.ie
+-----------------------------
+199.16.144.0 - 199.16.147.255
+One Montgomery st, suite 700
+San Francisco, CA
+US
+
+
+
+tracert results:
+
+1   *   *
+2   192.168.1.14    0.27 ms
+3   10-2-4.bear1.Pittsburgh3.Level3.net 0.49 ms
+4   *   *
+5   *   *
+6   66.151.130.32   62.27 m
+
+DNS record types:
+
+====================
+Dig
+====================
+; <<>> DiG 9.11.3-1ubuntu1.12-Ubuntu <<>> @4.2.2.1 opentable.com ANY
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57251
+;; flags: qr rd ra; QUERY: 1, ANSWER: 36, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 8192
+;; QUESTION SECTION:
+;opentable.com.         IN  ANY
+
+;; ANSWER SECTION:
+opentable.com.      300 IN  SOA a1-93.akam.net. hostmaster.opentable.com. 2022011301 1800 900 2700 1800
+opentable.com.      300 IN  MX  1 mailstream-west.mxrecord.io.
+opentable.com.      300 IN  MX  1 mailstream-east.mxrecord.io.
+opentable.com.      300 IN  TXT "g262epspdc1fl5c0n92b4uju3k"
+opentable.com.      300 IN  TXT "AC6B757620"
+opentable.com.      300 IN  TXT "bbd19f39dd914c9591841d88d2a11618"
+opentable.com.      300 IN  TXT "apple-domain-verification=bZvmb8JgHzLQgR23"
+opentable.com.      300 IN  TXT "google-site-verification=HF7q_NNGnz6d3YVda8T7ZKulRxczYpsgD-56ylmDGMo"
+opentable.com.      300 IN  TXT "A61rs42qfdM59WX4SGmzbUjV/GH4k2JyzdmGySiWD80m2nrR9/NtOJRmfzbxe+4HJrS0uPufFCsJNmY03gSqEQ=="
+opentable.com.      300 IN  TXT "MS=ms18891622"
+opentable.com.      300 IN  TXT "google-site-verification=6D4H6bhuErQdFB3f81oJoDbW3c0jOjZDisxPjC6gC0Y"
+opentable.com.      300 IN  TXT "docusign=9c016a59-0e5e-4945-bfa7-a3c1ee26c5de"
+opentable.com.      300 IN  TXT "00d30000000pvcweay"
+opentable.com.      300 IN  TXT "z3bdjxc5w394s8swr8wxkpjr7v0lqv5s"
+opentable.com.      300 IN  TXT "cf6a0ede100cc84a33ac61ce5c5d4a2b"
+opentable.com.      300 IN  TXT "google-site-verification=iAvRbfD-cpCIp9Vh7zu0muXRQ-grOl75SO1IWgVDtm8"
+opentable.com.      300 IN  TXT "google-site-verification=4QrX5pujh4QuMq-v3jZqAT1rHYPb6Z3yB-D3fXdGZII"
+opentable.com.      300 IN  TXT "m8g4xxwr0rj0ljc986zmg4q94vkymz13"
+opentable.com.      300 IN  TXT "n2k445h2153d0dg53orgt8q43g"
+opentable.com.      300 IN  TXT "security@siftscience.com"
+opentable.com.      300 IN  TXT "google-site-verification=TsZuQw9sNqTXh-GyamMTwOvv6OoUjuM3GXDyPu9QKRI"
+opentable.com.      300 IN  TXT "google-site-verification=dWhPInu54_2ivPqF9_jQktzvzBxsjeh9zm929visCDY"
+opentable.com.      300 IN  TXT "amazonses:51gaUTEuZ6SLHC/RnyDYDMQav3XRqJGxVA8s5sc+QsU="
+opentable.com.      300 IN  TXT "onetrust-domain-verification=ac3129b231a84c67a8c1ec30a55d0fa3"
+opentable.com.      300 IN  TXT "v=spf1 include:opentable.com._nspf.vali.email include:%{i}._ip.%{h}._ehlo.%{d}._spf.vali.email ~all"
+opentable.com.      300 IN  TXT "onetrust-domain-verification=0f9e94eb62524537ba43bf602004e795"
+opentable.com.      300 IN  TXT "logmein-verification-code=956270ef-066e-402e-b311-98190d81851c"
+opentable.com.      300 IN  TXT "google-site-verification=PR6bsg2iBjtogm6BDgddEuTgiX-EbOoMqta3rsDtzj0"
+opentable.com.      300 IN  TXT "qtpunbfevd3k9r6jdmtmcgfrf6"
+opentable.com.      300 IN  TXT "9i9eeig7u7gfsn9ct7p0eubeja"
+opentable.com.      300 IN  A   66.151.130.32
+opentable.com.      300 IN  NS  a11-66.akam.net.
+opentable.com.      300 IN  NS  a28-65.akam.net.
+opentable.com.      300 IN  NS  a13-64.akam.net.
+opentable.com.      300 IN  NS  a1-93.akam.net.
+opentable.com.      300 IN  NS  a12-67.akam.net.
+
+;; Query time: 34 msec
+;; SERVER: 4.2.2.1#53(4.2.2.1)
+;; WHEN: Sun Jan 23 02:21:12 GMT 2022
+;; MSG SIZE  rcvd: 1928
+
+============
+nslookup
+============
+Name           TTL Class   Type    Value
+opentable.com.  76  IN      A   66.151.130.32
+
+opentable.com.  300 IN  NS  a1-93.akam.net.
+opentable.com.  300 IN  NS  a12-67.akam.net.
+opentable.com.  300 IN  NS  a28-65.akam.net.
+opentable.com.  300 IN  NS  a13-64.akam.net.
+opentable.com.  300 IN  NS  a11-66.akam.net.
+
+opentable.com.  300 IN  MX  1 mailstream-west.mxrecord.io.
+opentable.com.  300 IN  MX  1 mailstream-east.mxrecord.io.
+
+opentable.com.  300 IN  SOA a1-93.akam.net. hostmaster.opentable.com. 2022011301 1800 900 2700 1800
+
+Hackertarget (Links to an external site.) - Use only passive tools on this site (review tools tab - do not use scans):
+
+================
+DNS Host Records US
+================
+otcon1.opentable.com,66.151.149.231
+ci-ssllab-test.sf.opentable.com,199.16.145.35
+ns4.opentable.com,199.16.145.69
+o5.sg.info.opentable.com,167.89.88.189
+o7.sg.emails.opentable.com,167.89.88.221
+o14.sg.emails.opentable.com,168.245.123.188
+traffic.otcorp.opentable.com,199.16.145.72
+o13.sg.emails.opentable.com,168.245.123.184
+dialin.opentable.com,199.16.145.82
+otmail2.opentable.com,66.151.149.244
+frontdoor-sc.opentable.com,66.151.130.122
+pages.email.opentable.com,13.111.23.129
+o16.sg.emails.opentable.com,168.245.34.68
+cloud.opentable.com,66.151.130.87
+otweb2.opentable.com,66.151.149.229
+mail.sf.opentable.com,199.16.145.91
+ftp.opentable.com,66.151.130.50
+otmail02.opentable.com,66.151.130.25
+ns2.opentable.com,199.16.144.68
+otmail.opentable.com,66.151.149.244
+int.opentable.com,66.151.130.82
+mail01.resources.opentable.com,129.145.77.22
+o6.sg.info.opentable.com,167.89.88.20
+owa2010.sf.opentable.com,199.16.145.89
+o18.sg.emails.opentable.com,168.245.62.37
+mta3.email.opentable.com,136.147.131.117
+meet.opentable.com,199.16.145.82
+mta0302-112.mgs.opentable.com,52.200.59.112
+stage.opentable.com,66.151.130.128
+mobile.opentable.com,66.151.130.68
+patch.opentable.com,199.16.145.60
+cgm.opentable.com,199.16.144.253
+relay1.opentable.com,204.16.158.77
+restaurant-event-stream.opentable.com,66.151.130.208
+demo-extapi.sf.opentable.com,199.16.144.244
+investors.opentable.com,66.151.130.105
+rez.opentable.com,66.135.34.141
+api.opentable.com,66.151.130.116
+mta0301-111.mgs.opentable.com,52.200.59.111
+mta2.email.opentable.com,136.147.131.116
+epoagh1.opentable.com,199.16.144.73
+ns10c.opentable.com,199.16.144.69
+ns40f.opentable.com,199.16.145.70
+otrweb2.opentable.com,66.151.149.231
+otmobileme.opentable.com,199.16.145.58
+remotesupport.opentable.com,204.16.158.74
+www.devblog-origin.opentable.com,208.113.204.138
+otra-sc-1.opentable.com,199.16.145.11
+otrweb1.opentable.com,66.151.149.231
+o9.sg.emails.opentable.com,167.89.88.237
+uk.opentable.com,199.16.146.72
+o2.contact.opentable.com,167.89.26.112
+wr.qa.sf.opentable.com,199.16.144.76
+click.email.opentable.com,13.111.23.130
+ln-gtm.opentable.com,199.16.146.11
+twilio.api.qa.sf.opentable.com,199.16.144.45
+mta0304-114.mgs.opentable.com,52.200.59.114
+mta0304-118.mgs.opentable.com,52.200.59.118
+ns40.opentable.com,199.16.146.101
+o11.sg.emails.opentable.com,168.245.12.243
+otmail3.opentable.com,66.151.149.243
+support.gifts.opentable.com,66.151.130.176
+mail2137.insider.opentable.com,208.95.132.83
+frontdoor-sc-proxyproto.opentable.com,66.151.130.204
+o8.sg.emails.opentable.com,167.89.88.228
+sc-gtm.opentable.com,66.151.130.9
+ns1.opentable.com,199.16.145.70
+devblog-origin.opentable.com,208.113.204.138
+sts.sf.opentable.com,199.16.145.88
+wr.dev.sf.opentable.com,199.16.144.75
+mail2136.insider.opentable.com,208.95.132.82
+view.email.opentable.com,13.111.23.131
+reply.insider.opentable.com,74.112.69.6
+lyncweb.opentable.com,199.16.145.82
+ns40c.opentable.com,199.16.145.69
+o17.sg.emails.opentable.com,168.245.34.9
+spotlight.opentable.com,50.56.204.113
+webcon.opentable.com,199.16.145.84
+o12.sg.emails.opentable.com,168.245.12.28
+lotr.otcorp.opentable.com,204.16.158.72
+otra-rs-1.opentable.com,199.16.147.5
+frontdoor-external-prod-ln.opentable.com,199.16.146.108
+o1.contact.opentable.com,167.89.15.171
+frontdoor-ln.opentable.com,199.16.146.84
+export.opentable.com,66.151.149.234
+ns10f.opentable.com,199.16.144.68
+ns30.opentable.com,199.16.146.100
+mockingbird.otcorp.opentable.com,204.16.158.73
+otmail03.opentable.com,66.151.130.26
+mta.email.opentable.com,136.147.130.209
+mail2181.insider.opentable.com,208.95.132.127
+insider.opentable.com,66.151.130.32
+otra-sc.opentable.com,199.16.145.10
+o19.sg.emails.opentable.com,168.245.62.40
+r-proxy1.sf.opentable.com,199.16.144.74
+mta0302-116.mgs.opentable.com,52.200.59.116
+beta.opentable.com,66.151.149.247
+mta0301-115.mgs.opentable.com,52.200.59.115
+detour.otcorp.opentable.com,199.16.145.73
+otmail01.opentable.com,66.151.130.126
+cityguides.opentable.com,66.33.213.172
+o15.sg.emails.opentable.com,168.245.27.69
+owa2007.sf.opentable.com,199.16.145.90
+o10.sg.emails.opentable.com,167.89.88.47
+erbmailgw.opentable.com,66.151.149.241
+o3.contact.opentable.com,167.89.5.98
+origin-www.opentable.com,66.151.130.32
+gw.opentable.com,66.151.149.245
+mta0303-117.mgs.opentable.com,52.200.59.117
+o20.sg.emails.opentable.com,168.245.71.97
+frontdoor-external-prod-sc.opentable.com,66.151.130.204
+selfservice.opentable.com,66.151.130.62
+devblog.opentable.com,208.113.206.116
+gifts.opentable.com,66.151.130.111
+ciapicloud.sf.opentable.com,199.16.145.37
+contact.opentable.com,66.151.130.204
+pp-ssllab-test.sf.opentable.com,199.16.145.36
+zeppelin.opentable.com,66.151.130.184
+pp.qa.sf.opentable.com,199.16.144.77
+mta0303-113.mgs.opentable.com,52.200.59.113
+otra-sc-2.opentable.com,199.16.145.12
+placesiveeaten.opentable.com,66.151.130.32
+ns3.opentable.com,199.16.144.69
+metro.opentable.com,199.16.145.74
+otra-eu.opentable.com,77.242.199.29
+o4.contact.opentable.com,167.89.85.134
+era.sf.opentable.com,199.16.145.76
+otcrelay2.opentable.com,199.16.145.33
+
+======================
+DNS Host Records UK
+======================
+opentable.co.uk,199.16.146.72
+api.cloud.opentable.co.uk,199.16.146.93
+api.opentable.co.uk,199.16.146.76
+mta.email.opentable.co.uk,136.147.136.165
+frontdoor-ln-proxyproto.opentable.co.uk,199.16.146.108
+gifts.opentable.co.uk,66.151.130.113
+support.opentable.co.uk,66.151.130.118
+
+==========================
+DNS Host Records Australia
+==========================
+opentable.com.au,66.151.130.177
+email.opentable.com.au,136.147.129.27
+mta.email.opentable.com.au,13.111.5.20
+frontdoor-sc-proxyproto.opentable.com.au,66.151.130.204
+
+=======================
+DNS Host Records Mexico
+=======================
+ns1.opentable.com.mx,66.151.130.60
+thekittencovers.ns1.opentable.com.mx,66.151.130.60
+virus0316.opentable.com.mx,66.151.130.60
+sports-virus0316.opentable.com.mx,66.151.130.60
+my-virus0316.opentable.com.mx,66.151.130.60
+community-virus0316.opentable.com.mx,66.151.130.60
+abtest-proxy-virus0316.opentable.com.mx,66.151.130.60
+frontdoor-prod-uswest2.virus0316.opentable.com.mx,66.151.130.60
+frontdoor-sc.opentable.com.mx,66.151.130.204
+ncnd.opentable.com.mx,66.151.130.60
+virus.mtsby.cdn.ncnd.opentable.com.mx,66.151.130.60
+foodvaccine.opentable.com.mx,66.151.130.60
+secure.opentable.com.mx,66.151.130.60
+booking-api.opentable.com.mx,66.151.130.60
+antivirus.booking-api.opentable.com.mx,66.151.130.60
+covidapi.opentable.com.mx,66.151.130.60
+app.opentable.com.mx,66.151.130.60
+antivirusrt.app.opentable.com.mx,66.151.130.60
+virusscanner.opentable.com.mx,66.151.130.60
+guestcenter.opentable.com.mx,66.151.130.60
+vaccines.opentable.com.mx,66.151.130.60
+connect.opentable.com.mx,66.151.130.60
+
+==========================
+
+
+Resources to Read:
+
+Ethical Hacking Passive Footprinting (Links to an external site.)
+ (Links to an external site.)Review Footprinting example slides and Footprinting power point slides. (Module 3)
+APA Guidance:
+
+Purdue APA General Format (Links to an external site.)
+Your paper should be typed and double-spaced on standard-sized document (8.5" x 11"), with 1" margins on all sides. Include a page header (also known as the “running head (page number)”) at the top of every page. 
+ (Links to an external site.)Citation Machine (Links to an external site.) - this site will create citations for you.
+ 
+
+Submit to Canvas
+
+You are encouraged to use the supplied template for creating your paper.
+
+APA-Format Template.docx
+
+A report written in scenario that includes the following:
+
+Create a report (suggested length of 2 – 5 pgs - APA Format) in which you do the following:
+
+1.  Summarize your findings of a footprinting analysis you performed on your chosen organization.
+
+2.  Discuss how the information gathered during your footprinting analysis could be used to initiate an attack against the organization.
+
+3.  Discuss social engineering techniques that could be utilized to gather information regarding the organization’s computer systems.
+
+a.  Present appropriate countermeasures that should be used to combat such social engineering techniques.
+
+4.  Prescribe a series of countermeasures and remedies that could be utilized to counter this type of footprinting attack.
+
+6.  Present common threats against web applications that pose the greatest risk to the organization’s web applications.
+
+Include a sources used page (the final page of your paper).
+
